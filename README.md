@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Abhishek Khangare</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Khangare</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="![image](https://user-images.githubusercontent.com/113746515/208225533-069f491f-8c00-480e-824d-c4f795830d44.png)" /> </p>
+<img align="right" alt="coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekkhangare21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekkhangare21" /> </p>
 
 - 🔭 I’m A College Graduate From **Nagpur University**
 
