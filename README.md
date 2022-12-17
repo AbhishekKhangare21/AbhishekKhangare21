@@ -13,7 +13,7 @@
 
 - 👨‍💻 Here is my one of the best project [https://youtubeclonebyak.netlify.app](https://youtubeclonebyak.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Bootstrap,Telwind**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Bootstrap, Telwind**
 
 - 📫 How to reach me **abhishekkhangare21@gmail.com**
 
