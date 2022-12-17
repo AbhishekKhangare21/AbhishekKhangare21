@@ -1,4 +1,4 @@
-![logo](https://github.com/AbhishekKhangare21/AbhishekKhangare21/blob/main/mistakes.png)
+<!-- ![logo](https://github.com/AbhishekKhangare21/AbhishekKhangare21/blob/main/mistakes.png) -->
 
 <h1 align="center">Hi, I'm Abhishek Khangare</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
